@@ -2,5 +2,6 @@
     
     The code will be released soon.
     
-    The dataset WIKIBIO is available from https://github.com/DavidGrangier/wikipedia-biography-dataset.
+    The dataset WIKIBIO is available from [cider](https://github.com/ruotianluo/cider)
+    https://github.com/DavidGrangier/wikipedia-biography-dataset.
     
