@@ -1,3 +1,6 @@
 # hierarchical-planning-attention-network
-
-    The dataset WIKIBIO is available from [WIKIBIO](https://github.com/DavidGrangier/wikipedia-biography-dataset "WIKIBIO")
+    
+    The code will be released soon.
+    
+    The dataset WIKIBIO is available from https://github.com/DavidGrangier/wikipedia-biography-dataset.
+    
